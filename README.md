@@ -1,0 +1,2 @@
+# .well-known
+BAT Publisher
